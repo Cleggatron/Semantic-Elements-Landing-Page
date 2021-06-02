@@ -13,7 +13,7 @@ as this should just be a webpage there should not be installation required. The 
 ## Usage
 I have attached a screenshot of the finished webpage below:
 
-![Page Mock Up](.assets/images/Screenshot.jpg)
+![Page Mock Up](./assets/images/Screenshot.jpg)
 
 ## Credits
 Original Files provided by the UBHM coding bootcamp in **[this repo](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-05-2021-u-c/tree/master/01-HTML-Git-CSS/02-Homework)**
