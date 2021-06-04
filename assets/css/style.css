@@ -67,9 +67,10 @@ p {
 
 /*Styles for figure*/
 .mainImage img{
-    height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    padding: 2%;
+    
 }
 
 /*Styles for our main and child elements. Superfluous classes have been removed*/

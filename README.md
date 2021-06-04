@@ -1,5 +1,8 @@
 # Semantic Elements Landing Page
 ## Description
+
+https://cleggatron.github.io/Semantic-Elements-Landing-Page/
+
 This was an exercise in refactoring some pre-existing code for the front page of a website. The aim was to tidy up the HTML/CSS. This was achieved by using semantic HTML elements to replace the div elements. Additionally the CSS classes were tidied up, as multiple classess existed providing the same styles. Lastly Alt text was provided for all the img tags and the hyperlinks were updated to be correct.
 
 All of this was designed to increase the accessibility both for the end user and any future developer who has to work on the codebase.
